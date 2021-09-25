@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Course-shop-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Course-shop-app/static/js/main.97e37f2f.chunk.js",
+    "main.js.map": "/Course-shop-app/static/js/main.97e37f2f.chunk.js.map",
+    "runtime-main.js": "/Course-shop-app/static/js/runtime-main.adf906a5.js",
+    "runtime-main.js.map": "/Course-shop-app/static/js/runtime-main.adf906a5.js.map",
+    "static/css/2.45a07214.chunk.css": "/Course-shop-app/static/css/2.45a07214.chunk.css",
+    "static/js/2.5903bd69.chunk.js": "/Course-shop-app/static/js/2.5903bd69.chunk.js",
+    "static/js/2.5903bd69.chunk.js.map": "/Course-shop-app/static/js/2.5903bd69.chunk.js.map",
+    "index.html": "/Course-shop-app/index.html",
+    "static/css/2.45a07214.chunk.css.map": "/Course-shop-app/static/css/2.45a07214.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Course-shop-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5903bd69.chunk.js.LICENSE.txt": "/Course-shop-app/static/js/2.5903bd69.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/Course-shop-app/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf906a5.js",
+    "static/css/2.45a07214.chunk.css",
+    "static/js/2.5903bd69.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.97e37f2f.chunk.js"
+  ]
+}
