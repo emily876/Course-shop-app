@@ -22,7 +22,6 @@ import {Course9} from './myComponents/detailCourse/Course9';
 
 
 import Footer from './myComponents/footer/Footer';
-import ContextProvider from './context/ContextProvider';
 import { TemplateProvider } from './templates/TemplateProvider';
 
 import { BrowserRouter,Switch ,Route} from 'react-router-dom';
@@ -33,7 +32,7 @@ function App() {
         <TemplateProvider>
           <BrowserRouter>
                 <Header />
-
+                <Home/>
                 <Box style={{marginTop:54}}>
                 <Switch>
                 <Route exact path="/" component={Home} />
